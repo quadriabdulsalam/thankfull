@@ -17,7 +17,7 @@ class Navbar extends Component  {
                 <a href='index.html' className='active'>Menu</a>
               </li> 
               <li>
-                <a href='index.html'>Home</a>
+                <a href='index.html'>ome</a>
                 </li> 
               <li>
                 <a href='index.html'>About</a>
